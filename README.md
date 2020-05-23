@@ -4,6 +4,6 @@ The following figure is the blind restoration of the spatial target image achiev
 ![blur_image](https://github.com/yangsoubo123/A-blind-deconvolution-framework-based-on-deep-learning/blob/master/images/blur.bmp) ![restore_image](https://github.com/yangsoubo123/A-blind-deconvolution-framework-based-on-deep-learning/blob/master/images/restore.bmp)<br><br>
 ## How to run
 **Prerequest**<br>
-*NVIDIA GPU + CUDA CuDNN (CPU untested, feedback appreciated)<br>
-*pytorch-0.3.0<br>
-
+* NVIDIA GPU + CUDA CuDNN (CPU untested, feedback appreciated)<br>
+* pytorch-0.3.0<br>
+Download weights from ![Baidu SkyDrive](https://pan.baidu.com/s/1JNRRxIYIYM91rpldneJf4w).Extraction code ```pv13```
